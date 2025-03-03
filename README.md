@@ -10,7 +10,6 @@ This project was designed to demonstrate my skills in **data analysis**, **data 
 
 - **Trip Analytics**: Visualizes key trip metrics such as total trips, average trip duration, and distance covered, helping to understand ride patterns.
 - **Revenue Insights**: Displays revenue data over time, segmented by region and service type (e.g., OlaX, OlaSUV), offering a clear view of revenue trends.
-- **Driver Performance**: Tracks key performance indicators for drivers, including total earnings, trips completed, and customer ratings.
 - **Customer Feedback**: Analyzes customer satisfaction, highlighting trends in feedback ratings and identifying service-related concerns.
 - **Interactive Visuals**: Dynamic, user-friendly charts with drill-down capabilities to explore the data by different time periods, regions, and service types.
 
@@ -38,13 +37,4 @@ The goal of this project was to:
 
 This Power BI dashboard project for Ola is a demonstration of my ability to collect, clean, and analyze data, and transform it into clear, actionable insights. By leveraging **Power BI**'s advanced visualization tools, I created an interactive, user-friendly dashboard that highlights important trends and metrics for stakeholders to make informed decisions.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions, feedback, or collaboration opportunities, feel free to reach out via:
-
-- **Email**: [your-email@example.com]
-- **GitHub**: [https://github.com/your-username](https://github.com/your-username)
